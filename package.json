@@ -1,23 +1,23 @@
 {
-  "name": "hubot-redmine-notifier",
+  "name": "hubot-redmine-xnotifier",
   "description": "Notifies about Redmine creating and updating tickets",
   "version": "0.0.1",
-  "homepage": "https://github.com/tenten0213/hubot-redmine-notifier",
+  "homepage": "https://github.com/luozengbin/hubot-redmine-notifier",
   "author": {
-    "name": "Takehito Amanuma",
-    "email": "takehito.0213@gmail.com"
+    "name": "Akira Wakana",
+    "email": "jalen.cn@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tenten0213/hubot-redmine-notifier.git"
+      "url": "git://github.com/luozengbin/hubot-redmine-notifier.git"
   },
   "bugs": {
-    "url": "https://github.com/tenten0213/hubot-redmine-notifier/issues"
+      "url": "https://github.com/luozengbin/hubot-redmine-notifier/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/tenten0213/hubot-redmine-notifier/blob/master/LICENSE"
+        "url": "https://github.com/luozengbin/hubot-redmine-notifier/blob/master/LICENSE"
     }
   ],
   "main": "src/scripts/hubot-redmine-notifier",
